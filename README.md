@@ -118,6 +118,7 @@ Questions can be asked by raising an `Issue`.
 - [Aman Verma](https://github.com/amanpro1)
 - [Ana Carrillo](https://github.com/acarrillo3)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
+- [Andrew Zhou](https://github.com/andypants888)
 - [Angel Dhakal](https://github.com/angeldhakal)
 - [Anh Tran](https://github.com/longqua69)
 - [Aniket Singh](https://github.com/aniketsingh98571)
